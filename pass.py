@@ -1,0 +1,2 @@
+def man(a):
+    pass
